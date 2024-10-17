@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  background: rgb(0, 8, 168);;
+  padding: 2rem;
+  border-radius: 1.5rem;
+}
+
+h1 {
+color:  rgb(249, 249, 105);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+form input {
+  margin: 10px;
+  height: 30px;
+}
+
+form span {
+  display: flex;
+}
+
+div span {
+  color: aliceblue;
+}
+button {
+  margin: 10px;
+}
